@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Store_System.Account" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAAAAAAAAAAEAAAAAAAAAAIAAAgAEAAQAAAAAAAAA=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store_System.Executive" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Executive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store_System.Inventory" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAgAIAAAAAAAAAAA=</HashCode>
+      <FileName>Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store_System.Program" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store_System.Sale" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store_System.Login" Collapsed="true">
+    <Position X="1.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACACAASAAAcAAEAEGEAAgAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store_System.Inventory_Listing" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQCAQCgBAQAAAADAAgACAAgAAAAAIAAAAASAAgA=</HashCode>
+      <FileName>Inventory Listing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store_System.MainSystem" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+AGNHBgEQaAmRRQgEgiABREiAACZoKBJAGAIgJhQDgY=</HashCode>
+      <FileName>MainSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store_System.Admin" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEGBgRAEQSADABAAAACIQQQCIAIEDAA8ACAAAgBDJjA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store_System.Sales_reports" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAAAICkAAAAgEBCAAQgCABgAAAAACAAgAADAAAE=</HashCode>
+      <FileName>Sales_reports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store_System.Employee_List" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAABAAiEAAAAAAFCAAQACAAiEAIABAAAAAACAAAA=</HashCode>
+      <FileName>Employee_List.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
